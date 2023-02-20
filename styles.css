@@ -1,0 +1,25 @@
+
+body{
+    background-color:#BAD1C2;
+}
+hr {
+    
+    border-style: none;
+    border-top-style: dashed;
+    border-color:black;
+    border-width: 3px;    
+    width: 70%;
+    
+}
+h1 {
+    color: #344D67;
+}
+h2 {
+    color: #344D67;
+}
+h3 {
+    color: #344D67;
+}
+h4 {
+    color: crimson;
+}
